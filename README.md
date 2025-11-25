@@ -67,7 +67,7 @@ This project builds a **Product Recommendation System** powered by **Sentiment A
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Omshrivastav12/product-recommendation-sentiment-analysis.git
+   git clone https://github.com/naman12072000/Product-recommendation-using-sentiment-analysis/edit/main/README.md
    cd product-recommendation-sentiment-analysis
    ```
 
